@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/DeenahSheikh/DSA-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
