@@ -35,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DeenahSheikh/DSA-/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/DeenahSheikh/DSA-/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/DeenahSheikh/DSA-/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
