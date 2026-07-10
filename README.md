@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
