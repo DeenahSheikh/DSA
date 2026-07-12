@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeenahSheikh/DSA-/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DeenahSheikh/DSA-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/DeenahSheikh/DSA-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/DeenahSheikh/DSA-/tree/master/0344-reverse-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeenahSheikh/DSA-/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DeenahSheikh/DSA-/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
