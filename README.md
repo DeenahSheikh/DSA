@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/DeenahSheikh/DSA/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/DeenahSheikh/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
