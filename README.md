@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DeenahSheikh/DSA-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DeenahSheikh/DSA-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DeenahSheikh/DSA-/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/DeenahSheikh/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DeenahSheikh/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DeenahSheikh/DSA/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
