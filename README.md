@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeenahSheikh/DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DeenahSheikh/DSA-/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/DeenahSheikh/DSA-/tree/master/0917-reverse-only-letters) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DeenahSheikh/DSA-/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -104,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
