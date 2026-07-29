@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DeenahSheikh/DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DeenahSheikh/DSA-/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0680-valid-palindrome-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeenahSheikh/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -124,5 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
