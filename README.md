@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DeenahSheikh/DSA-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DeenahSheikh/DSA-/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DeenahSheikh/DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DeenahSheikh/DSA-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DeenahSheikh/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DeenahSheikh/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
