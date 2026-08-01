@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/DeenahSheikh/DSA-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DeenahSheikh/DSA-/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DeenahSheikh/DSA-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DeenahSheikh/DSA-/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/DeenahSheikh/DSA-/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DeenahSheikh/DSA-/tree/master/2119-a-number-after-a-double-reversal) |
