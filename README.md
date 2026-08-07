@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeenahSheikh/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DeenahSheikh/DSA-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DeenahSheikh/DSA-/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/DeenahSheikh/DSA/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/DeenahSheikh/DSA/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/DeenahSheikh/DSA/tree/master/0197-rising-temperature) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DeenahSheikh/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DeenahSheikh/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
