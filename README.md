@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeenahSheikh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/DeenahSheikh/DSA-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DeenahSheikh/DSA-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeenahSheikh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DeenahSheikh/DSA-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DeenahSheikh/DSA-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DeenahSheikh/DSA-/tree/master/0075-sort-colors) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeenahSheikh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/DeenahSheikh/DSA-/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeenahSheikh/DSA/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeenahSheikh/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
