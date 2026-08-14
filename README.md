@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/DeenahSheikh/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DeenahSheikh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/DeenahSheikh/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
