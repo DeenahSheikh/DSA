@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/DeenahSheikh/DSA-/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeenahSheikh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DeenahSheikh/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/0234-palindrome-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
