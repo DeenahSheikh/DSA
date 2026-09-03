@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/DeenahSheikh/DSA-/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeenahSheikh/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DeenahSheikh/DSA-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeenahSheikh/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeenahSheikh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DeenahSheikh/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeenahSheikh/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
