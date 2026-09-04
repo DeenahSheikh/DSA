@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeenahSheikh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DeenahSheikh/DSA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeenahSheikh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeenahSheikh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeenahSheikh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DeenahSheikh/DSA-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DeenahSheikh/DSA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DeenahSheikh/DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeenahSheikh/DSA-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeenahSheikh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeenahSheikh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DeenahSheikh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeenahSheikh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/DeenahSheikh/DSA/tree/master/1052-grumpy-bookstore-owner) |
