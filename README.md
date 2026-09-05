@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DeenahSheikh/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/DeenahSheikh/DSA-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DeenahSheikh/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeenahSheikh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeenahSheikh/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeenahSheikh/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DeenahSheikh/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/DeenahSheikh/DSA/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
