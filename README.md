@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/DeenahSheikh/DSA-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeenahSheikh/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/DeenahSheikh/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/DeenahSheikh/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Brainteaser
 |  |
 | ------- |
