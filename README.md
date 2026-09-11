@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/DeenahSheikh/DSA-/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/DeenahSheikh/DSA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/DeenahSheikh/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/DeenahSheikh/DSA-/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeenahSheikh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/DeenahSheikh/DSA-/tree/master/1816-truncate-sentence) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DeenahSheikh/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
