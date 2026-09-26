@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/DeenahSheikh/DSA-/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DeenahSheikh/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DeenahSheikh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeenahSheikh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DeenahSheikh/DSA-/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
