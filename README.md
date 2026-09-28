@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/DeenahSheikh/DSA-/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/DeenahSheikh/DSA/tree/master/0197-rising-temperature) |
 | [3436-find-valid-emails](https://github.com/DeenahSheikh/DSA/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/DeenahSheikh/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Linked List
 |  |
 | ------- |
