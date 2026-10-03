@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/DeenahSheikh/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
 | ------- |
