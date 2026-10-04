@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-maximum-height-of-a-triangle](https://github.com/DeenahSheikh/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3668-restore-finishing-order](https://github.com/DeenahSheikh/DSA-/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/DeenahSheikh/DSA-/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
