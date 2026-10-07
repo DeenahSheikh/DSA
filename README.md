@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/DeenahSheikh/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeenahSheikh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/DeenahSheikh/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/DeenahSheikh/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeenahSheikh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DeenahSheikh/DSA-/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/DeenahSheikh/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/DeenahSheikh/DSA-/tree/master/0319-bulb-switcher) |
+| [0441-arranging-coins](https://github.com/DeenahSheikh/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/DeenahSheikh/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeenahSheikh/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
