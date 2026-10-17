@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-maximum-height-of-a-triangle](https://github.com/DeenahSheikh/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/DeenahSheikh/DSA-/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DeenahSheikh/DSA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/DeenahSheikh/DSA-/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
