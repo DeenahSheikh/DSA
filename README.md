@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/DeenahSheikh/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeenahSheikh/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/DeenahSheikh/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DeenahSheikh/DSA-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DeenahSheikh/DSA-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/DeenahSheikh/DSA-/tree/master/2413-smallest-even-multiple) |
