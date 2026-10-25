@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeenahSheikh/DSA-/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DeenahSheikh/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/DeenahSheikh/DSA-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/DeenahSheikh/DSA-/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Number Theory
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DeenahSheikh/DSA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeenahSheikh/DSA-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Queue
