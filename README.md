@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DeenahSheikh/DSA/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeenahSheikh/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeenahSheikh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/DeenahSheikh/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DeenahSheikh/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeenahSheikh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DeenahSheikh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/DeenahSheikh/DSA/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/DeenahSheikh/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1207-unique-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DeenahSheikh/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DeenahSheikh/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DeenahSheikh/DSA/tree/master/0496-next-greater-element-i) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeenahSheikh/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeenahSheikh/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DeenahSheikh/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
