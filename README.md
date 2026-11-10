@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DeenahSheikh/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/DeenahSheikh/DSA-/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/DeenahSheikh/DSA-/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3693-climbing-stairs-ii](https://github.com/DeenahSheikh/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/DeenahSheikh/DSA/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/DeenahSheikh/DSA-/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/DeenahSheikh/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
