@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenahSheikh/DSA-/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeenahSheikh/DSA-/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DeenahSheikh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DeenahSheikh/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DeenahSheikh/DSA-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeenahSheikh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeenahSheikh/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DeenahSheikh/DSA/tree/master/0289-game-of-life) |
 | [1929-concatenation-of-array](https://github.com/DeenahSheikh/DSA-/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
+| [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeenahSheikh/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
@@ -407,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/DeenahSheikh/DSA/tree/master/1267-count-servers-that-communicate) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
