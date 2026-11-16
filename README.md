@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/DeenahSheikh/DSA-/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3110-score-of-a-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/DeenahSheikh/DSA/tree/master/0289-game-of-life) |
 | [1929-concatenation-of-array](https://github.com/DeenahSheikh/DSA-/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
 | [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3498-reverse-degree-of-a-string) |
