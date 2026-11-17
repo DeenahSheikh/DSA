@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/DeenahSheikh/DSA-/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeenahSheikh/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/DeenahSheikh/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/DeenahSheikh/DSA-/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DeenahSheikh/DSA-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/DeenahSheikh/DSA-/tree/master/1929-concatenation-of-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/DeenahSheikh/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3151-special-array-i](https://github.com/DeenahSheikh/DSA-/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/DeenahSheikh/DSA-/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DeenahSheikh/DSA/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/DeenahSheikh/DSA-/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
 | ------- |
