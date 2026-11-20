@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenahSheikh/DSA-/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeenahSheikh/DSA-/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3452-sum-of-good-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/DeenahSheikh/DSA-/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
