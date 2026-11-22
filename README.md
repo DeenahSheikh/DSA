@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeenahSheikh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/DeenahSheikh/DSA-/tree/master/2810-faulty-keyboard) |
+| [3019-number-of-changing-keys](https://github.com/DeenahSheikh/DSA-/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/DeenahSheikh/DSA-/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/DeenahSheikh/DSA-/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DeenahSheikh/DSA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
