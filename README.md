@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/DeenahSheikh/DSA-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/DeenahSheikh/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeenahSheikh/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenahSheikh/DSA-/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeenahSheikh/DSA-/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DeenahSheikh/DSA-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DeenahSheikh/DSA-/tree/master/2769-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeenahSheikh/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/DeenahSheikh/DSA-/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeenahSheikh/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
