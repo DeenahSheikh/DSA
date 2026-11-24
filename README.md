@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeenahSheikh/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeenahSheikh/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenahSheikh/DSA-/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeenahSheikh/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeenahSheikh/DSA-/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/DeenahSheikh/DSA-/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/DeenahSheikh/DSA-/tree/master/3467-transform-array-by-parity) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/DeenahSheikh/DSA-/tree/master/2769-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeenahSheikh/DSA-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeenahSheikh/DSA-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeenahSheikh/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeenahSheikh/DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/DeenahSheikh/DSA-/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeenahSheikh/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/DeenahSheikh/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2413-smallest-even-multiple](https://github.com/DeenahSheikh/DSA-/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeenahSheikh/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeenahSheikh/DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeenahSheikh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeenahSheikh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DeenahSheikh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeenahSheikh/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3200-maximum-height-of-a-triangle](https://github.com/DeenahSheikh/DSA/tree/master/3200-maximum-height-of-a-triangle) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeenahSheikh/DSA-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
